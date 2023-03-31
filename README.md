@@ -63,7 +63,5 @@ Stay Up-to-Date on my [Portfolio](https://vithunkrishnas.carrd.co/) Progress
   
 ## Projects:
 
-* [Data Driven Insights on YouTube Trends](https://github.com/vithun97/Data-Driven-Insights-on-YouTube-Trends-Data-Engineering-Project)  
 * [Twitter Data Pipeline using Airflow: Collection and Processing](https://github.com/vithun97/Twitter-Pipeline-using-Airflow)  
 * [Stock Market Real Time Data Processing Engine using Kafka](https://github.com/vithun97/Stock-Market-Real-Time-Data-Processing-Engine-using-Kafka---Data-Engineering-Project)  
-* [Amazon Data Scraping using Python](https://github.com/vithun97/Amazon-web-scraping)  
