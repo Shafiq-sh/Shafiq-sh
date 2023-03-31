@@ -47,8 +47,7 @@ I have a solid understanding of **ELT and ETL principles**, and am proficient in
   
 As a data engineer, I am always looking for ways to improve my craft and stay current with the latest trends and technologies. I welcome valuable suggestions and recommendations from others in the field, as well as from experts in related areas. I believe that by actively seeking out input and advice, I can continue to grow as a professional and deliver increasingly effective data engineering solutions. Whether it's through in-person discussions, online forums, or collaboration with others, I am always eager to learn and incorporate new ideas and best practices into my work.  
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/vithun-krishna-s/)  
-Stay Up-to-Date on my [Portfolio](https://vithunkrishnas.carrd.co/) Progress
+Connect with me on [Linkedin](https://www.linkedin.com/in/shafiq-k)
 
 ## Licenses and Certifications: 
 
