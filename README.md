@@ -51,5 +51,5 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/shafiq-k)
   
 ## Projects:
 
-* [Twitter Data Pipeline using Airflow: Collection and Processing](https://github.com/vithun97/Twitter-Pipeline-using-Airflow)  
-* [Stock Market Real Time Data Processing Engine using Kafka](https://github.com/vithun97/Stock-Market-Real-Time-Data-Processing-Engine-using-Kafka---Data-Engineering-Project)  
+* [Twitter Data Pipeline using Airflow: Collection and Processing](https://github.com/Shafiq-sh/Twitter_data_pipeline_using_Apache_Airflow)  
+* [Stock Market Real Time Data Processing Engine using Kafka](https://github.com//Stock-Market-Real-Time-Data-Processing-Engine-using-Kafka---Data-Engineering-Project)  
