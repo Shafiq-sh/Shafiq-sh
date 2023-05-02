@@ -21,13 +21,13 @@ As a seasoned **Business Intelligence Engineer**,  I bring over **4+ years of ex
 
 I have a strong background in **Python and the Hadoop Ecosystem**, which enables me to develop efficient data pipelines that handle complex datasets with ease. I specialize in exploratory data analysis, structured machine learning algorithms, and visualization using **Tableau & PowerBI**, which ensures that I can extract valuable insights from data and present them in an easy-to-understand format.
 
-My experience in data collection, cleaning, integration, processing, and visualization using libraries such as **PySpark, Pandas, NumPy, and Shell** makes me well-equipped to handle any data-related challenge. I have a deep understanding of ETL and ELT principles, and I'm proficient in **SQL, PL-SQL, AWS Redshift, and Snowflake**, which enables me to build and manage data warehousing solutions.
+My experience in data collection, cleaning, integration, processing, and visualization using libraries such as **PySpark, Pandas, NumPy, and Shell** makes me well-equipped to handle any data-related challenge. I have a solid understanding of **ELT and ETL principles**, and am proficient in **SQL, AWS Redshift, and Snowflake** with a strong background in data warehousing concepts. I also possess advanced skills in Excel and working knowledge in JIRA and Linux.
 
 Apart from my technical skills, I possess advanced Excel skills and working knowledge of JIRA and Linux. With a proven track record of delivering data-driven solutions, I am confident in my ability to contribute to your organization's success.
 
 Thank you for taking the time to read my profile, and I look forward to discussing how I can help your organization leverage data to drive success.
 
-I have a solid understanding of **ELT and ETL principles**, and am proficient in **SQL, AWS Redshift, and Snowflake** with a strong background in data warehousing concepts. I also possess advanced skills in Excel and working knowledge in JIRA and Linux.
+
 
 ## Tech Stack :
 
